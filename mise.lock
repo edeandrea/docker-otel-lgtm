@@ -97,7 +97,7 @@ url_api = "https://api.github.com/repos/grafana/flint/releases/assets/586353820"
 provenance = "github-attestations"
 
 [[tools."aqua:grafana/gcx"]]
-version = "v1.6.0"
+version = "v1.7.1"
 backend = "aqua:grafana/gcx"
 specifiers = ["latest"]
 
