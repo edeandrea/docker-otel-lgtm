@@ -792,7 +792,7 @@ specifiers = ["latest"]
 trust_policy_excludes = '["@yarnpkg/libzip@3.2.2"]'
 
 [[tools.pkl]]
-version = "0.32.1"
+version = "0.32.2"
 backend = "aqua:apple/pkl"
 specifiers = ["latest"]
 
